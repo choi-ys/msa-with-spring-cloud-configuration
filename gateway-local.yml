@@ -1,0 +1,5 @@
+spring:
+  config:
+    import:
+      - eureka-client-local.yml
+      - jwt-local.yml
