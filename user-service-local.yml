@@ -1,0 +1,5 @@
+spring:
+  config:
+    import:
+      - application-local.yml
+      - jwt-local.yml
