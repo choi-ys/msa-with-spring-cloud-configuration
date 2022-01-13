@@ -1,5 +1,0 @@
-spring:
-  config:
-    import:
-      - application-test.yml
-      - jwt-test.yml

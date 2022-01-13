@@ -3,4 +3,4 @@ spring:
     import:
       - application-local.yml
       - jwt-local.yml
-      - datasource-h2-local.yml
+      - datasource-mysql-local.yml

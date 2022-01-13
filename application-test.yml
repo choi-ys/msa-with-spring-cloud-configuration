@@ -1,7 +1,0 @@
-spring:
-  config:
-    import:
-      - datasource-test.yml
-      - eureka-client-local.yml
-      - rabbitmq-local.yml
-      - actuator-local.yml

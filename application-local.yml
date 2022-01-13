@@ -1,7 +1,6 @@
 spring:
   config:
     import:
-      - datasource-local.yml
       - eureka-client-local.yml
       - rabbitmq-local.yml
       - actuator-local.yml
