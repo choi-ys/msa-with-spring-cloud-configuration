@@ -1,7 +1,7 @@
 spring:
   config:
     import:
-      - actuator-local.yml
-      - eureka-client-local.yml
-      - rabbitmq-local.yml
-      - sleuth-zipkin-local.yml
+      - micro-client/actuator-local.yml
+      - micro-client/eureka-client-local.yml
+      - micro-client/rabbitmq-local.yml
+      - micro-client/sleuth-zipkin-local.yml
