@@ -1,7 +1,6 @@
 spring:
   config:
     import:
-      - application-local.yml
+      - micro-client-local.yml
       - jwt-local.yml
-      - datasource-h2-local.yml
-      - sleuth-zipkin-local.yml
+      - datasource/datasource-user-local.yml

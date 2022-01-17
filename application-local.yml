@@ -1,6 +1,0 @@
-spring:
-  config:
-    import:
-      - eureka-client-local.yml
-      - rabbitmq-local.yml
-      - actuator-local.yml
