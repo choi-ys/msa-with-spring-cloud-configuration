@@ -2,4 +2,4 @@ spring:
   config:
     import:
       - micro-client-local.yml
-      - jwt-local.yml
+      - jwt/jwt-local.yml
